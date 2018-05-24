@@ -89,7 +89,7 @@ return [
     */
     'options' => [
         'delimiter' => '/',
-        'fetch' => FT_UID,
+        'fetch' => 'FT_UID',
         'fetch_body' => true,
         'fetch_attachment' => true,
         'open' => [
